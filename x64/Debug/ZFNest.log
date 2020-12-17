@@ -1,0 +1,77 @@
+﻿  ClassView.cpp
+  CMaterials.cpp
+  dl_dxf.cpp
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(115,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(301,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(1975,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(2316,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(2860,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(2864,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(2868,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(3569,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5255,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5326,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5327,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5328,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5329,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5330,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_dxf.cpp(5331,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  dl_writer_ascii.cpp
+G:\workspace\ZFNest\dxflib\dl_writer_ascii.cpp(64,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_writer_ascii.cpp(67,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\dxflib\dl_writer_ascii.cpp(115,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FileView.cpp
+  MainFrm.cpp
+G:\workspace\ZFNest\MainFrm.cpp(514,15): warning C4477: “sprintf”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+G:\workspace\ZFNest\MainFrm.cpp(514,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\MainFrm.cpp(749,15): warning C4477: “sprintf”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+G:\workspace\ZFNest\MainFrm.cpp(749,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\MainFrm.cpp(784,29): warning C4552: ”<“: 未使用表达式结果
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  QR2BMP.cpp
+  test_creationclass.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  ViewTree.cpp
+  ZFNest.cpp
+  ZFNestDoc.cpp
+  ZFNestView.cpp
+  正在生成代码...
+  getopt.c
+  bitstream.c
+  mask.c
+  mmask.c
+  mqrspec.c
+  qrenc.c
+G:\workspace\ZFNest\libqrencode\qrenc.c(28,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+G:\workspace\ZFNest\libqrencode\qrenc.c(214,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\libqrencode\qrenc.c(218,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(227,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(246,48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\workspace\ZFNest\libqrencode\qrenc.c(269,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(553,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\workspace\ZFNest\libqrencode\qrenc.c(741,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(743,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(795,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(797,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(804,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(808,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(811,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(815,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(818,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(820,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(1160,16): warning C4013: “strcasecmp”未定义；假设外部返回 int
+G:\workspace\ZFNest\libqrencode\qrenc.c(1152,9): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+G:\workspace\ZFNest\libqrencode\qrenc.c(1161,13): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  qrencode.c
+G:\workspace\ZFNest\libqrencode\qrencode.c(932,10): warning C4047: “return”:“char *”与“int”的间接级别不同
+  qrinput.c
+  qrspec.c
+  rsecc.c
+  split.c
+G:\workspace\ZFNest\libqrencode\split.c(45,1): warning C4273: “strdup”: dll 链接不一致
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536,28): message : 参见“strdup”的前一个定义
+G:\workspace\ZFNest\libqrencode\split.c(284,11): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  正在生成代码...
+    正在创建库 G:\workspace\ZFNest\x64\Debug\ZFNest.lib 和对象 G:\workspace\ZFNest\x64\Debug\ZFNest.exp
+  ZFNest.vcxproj -> G:\workspace\ZFNest\x64\Debug\ZFNest.exe

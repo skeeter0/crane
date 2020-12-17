@@ -1,0 +1,2 @@
+G:\workspace\ZFNest\Debug\ZFNest.exe
+G:\workspace\ZFNest\Debug\ZFNest.pdb
